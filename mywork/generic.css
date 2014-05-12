@@ -1,0 +1,54 @@
+@charset "UTF-8";
+.logo {
+	position: absolute;
+	right: 50px;
+}
+.bottomtext {
+	font-family: Arial, Helvetica, sans-serif;
+	font-size: 14px;
+	font-style: normal;
+	line-height: normal;
+}
+h3 {
+	font-family: Arial, Helvetica, sans-serif;
+	font-size: 16px;
+	font-style: normal;
+	line-height: 18px;
+	color: #666;
+}
+.showcaseTxt {
+	font-family: Arial, Helvetica, sans-serif;
+	font-size: 16px;
+	line-height: 18px;
+	color: #333;
+	font-style: normal;
+}
+.mail {
+	font-family: Arial, Helvetica, sans-serif;
+	font-size: 14px;
+	font-style: normal;
+	line-height: normal;
+	font-weight: bold;
+	color: #09C;
+}
+.header {
+	border-bottom-style: dotted;
+	border-bottom-color: #666;
+	border-top-width: 0px;
+	border-top-style: none;
+	border-right-style: none;
+	border-left-style: none;
+	border-right-width: 2px;
+	border-bottom-width: 0px;
+	border-left-width: 0px;
+	text-align: left;
+	margin-right: auto;
+	margin-left: auto;
+	margin-top: auto;
+	margin-bottom: auto;
+}
+.text1 {
+	color: #666;
+	font-family: Arial, Helvetica, sans-serif;
+	font-size: 18px;
+}
