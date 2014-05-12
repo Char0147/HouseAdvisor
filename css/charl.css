@@ -1,0 +1,21 @@
+@charset "UTF-8";
+/* CSS Document */
+
+#caja, #caja2 {
+width:50%;
+display: none;
+padding:5px;
+border:2px solid #FADDA9;
+background-color:#FDF4E1;
+}
+
+#mostrar, #mostrar2{
+display:block;
+width:50%;
+padding:5px;
+border:2px solid #D0E8F4;
+background-color:#ECF8FD;
+float: left;
+
+}
+</style>
